@@ -1,3 +1,11 @@
+/*
+Covid 19 Data Exploration 
+
+skills Used: Joins, Window Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
+
 SELECT * 
 FROM portfolioproject.covid_deaths
 WHERE continent <> ''
